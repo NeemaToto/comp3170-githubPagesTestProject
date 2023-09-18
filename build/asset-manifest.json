@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comp3170-githubPagesTestProject/static/css/main.fc5c2c69.css",
+    "main.js": "/comp3170-githubPagesTestProject/static/js/main.9ac75185.js",
+    "index.html": "/comp3170-githubPagesTestProject/index.html",
+    "main.fc5c2c69.css.map": "/comp3170-githubPagesTestProject/static/css/main.fc5c2c69.css.map",
+    "main.9ac75185.js.map": "/comp3170-githubPagesTestProject/static/js/main.9ac75185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9ac75185.js"
+  ]
+}
